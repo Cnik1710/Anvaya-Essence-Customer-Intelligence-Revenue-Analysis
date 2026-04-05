@@ -132,18 +132,21 @@ To better understand customer behavior and revenue drivers, the analysis focuses
 ### **Summary:** 
    * Customer purchasing behavior is strongly influenced by demographic factors such as age, income, education, and household structure.
 
-    * Middle-aged and higher-income customers contribute the most to overall revenue, making them key high-value segments.
+   * Middle-aged and higher-income customers contribute the most to overall revenue, making them key high-value segments.
 
-    * Store purchases dominate over web purchases, indicating strong offline engagement while highlighting potential growth opportunities for online channels.
+   * Store purchases dominate over web purchases, indicating strong offline engagement while highlighting potential growth opportunities for online channels.
 
-    * Customer recency analysis reveals opportunities to retain slipping customers and re-engage inactive segments.
+   * Customer recency analysis reveals opportunities to retain slipping customers and re-engage inactive segments.
 
-    * These insights enable businesses to design targeted marketing strategies, improve customer retention, and optimize revenue performance.
+   * These insights enable businesses to design targeted marketing strategies, improve customer retention, and optimize revenue performance.
 ---
  
 ## 🖥️ Dashboard Overview
-### Placement Overview
-![image alt](https://github.com/Cnik1710/Academy-for-Business-Careers-Data-Entrepreneurship-ABCDE-Placement-Analysis/blob/e1014362014fc2e85f4311d5cc15bdbfe0198f0a/04.%20Academy%20for%20Business%20Careers%2C%20Data%20%26%20Entrepreneurship%20(ABCDE)%20-%20Placement%20Analysis%20Dashboard.png)
+### Customer Segmentation
+![image alt](https://github.com/Cnik1710/Anvaya-Essence-Customer-Segmentation-Purchase-Behavior-Analysis/blob/f74ec68305c2064c7706e3023c59e5e38a41eb75/05.%20Anvaya%20Essence%20%E2%80%93%20Customer%20Segmentation%20%26%20Purchase%20Behavior%20Analysis%20(1)%20Dashboard.png)
+
+### Purchase Behavior
+![image alt](https://github.com/Cnik1710/Anvaya-Essence-Customer-Segmentation-Purchase-Behavior-Analysis/blob/f74ec68305c2064c7706e3023c59e5e38a41eb75/06.%20Anvaya%20Essence%20%E2%80%93%20Customer%20Segmentation%20%26%20Purchase%20Behavior%20Analysis%20(2)%20Dashboard.png)
 
 ---
  
@@ -152,22 +155,23 @@ To better understand customer behavior and revenue drivers, the analysis focuses
       * Leverage placement analytics to evaluate program-level performance
       * Identify academic strengths and gap areas
       * Plan strategic improvements in curriculum and training initiatives
-  * **Training & Placement Cell:**
-      * Monitor placement trends and conversion rates
-      * Target underperforming student segments and specializations
-      * Strengthen industry partnerships through data-backed reporting
-  * **Faculty & Academic Departments:**
-      * Understand how degree type and specialization influence placement outcomes
-      * Align curriculum with high-performing academic domains
-      * Guide mentorship using performance-based insights  
-  * **Students & Career Advisors:**
-     * Understand how specialization, and academic background impact salary outcomes
-     * Make informed decisions about career focus and skill development
-     * Set realistic expectations regarding placement and compensation trends
-  * **Recruiters & Industry Partners:**
-     * Identify high-performing academic segments
-     * Access data-backed insights on student quality and specialization strengths
-     * Optimize recruitment strategy and hiring pipelines
+
+The insights generated from this dashboard support data-driven marketing, sales, and customer strategy decisions.
+  * **Marketing Strategy:**
+      * Identify high-value customer segments based on income, age group, and spending behavior to design targeted and personalized marketing campaigns.
+  * **Customer Retention:**
+      * Use recency analysis to detect slipping or at-risk customers and implement re-engagement strategies to reduce churn.
+  * **Sales Channel Optimization**
+      * Analyze store vs web purchase patterns to understand customer channel preferences and improve online sales adoption.
+  * **Strategic Decision Making:**
+      * Provide actionable insights for leadership teams to optimize customer engagement, revenue growth, and marketing investments.
+  * **Business Value:**
+      * This dashboard enables organizations to:
+        * Identify high-spending customer segments
+        * Improve targeted marketing strategies
+        * Strengthen customer retention initiatives
+        * Evaluate offline vs online sales performance
+        * Support data-driven business decision making
 ---
  
 ## 🙏 Acknowledgements & Contact 
